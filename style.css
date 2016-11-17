@@ -1,0 +1,69 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: grey;
+	color: white;
+}
+
+img{
+	width: 30%;
+	display: block;
+	margin: auto;
+	border: 10px ridge black;
+	box-shadow: 5px 5px 10px grey;
+	border-radius: 15px;
+}
+
+h1{
+	text-align: center;
+	border: 3px solid #AA0000;
+	background-color: #222222;
+}
+
+
+.top{
+	background-color: black;
+	border: 5px solid green;
+	border-radius: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+#sommaire{
+	padding-bottom: 0.5%;
+	background-color: maroon;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+}
+
+#temoin{
+	display: block;
+	margin: auto;
+	color: black;
+	background-color: #e5e0a3;
+	width: 90%;
+	box-shadow: 5px 5px 5px black;
+	border-radius: 15px;
+}
+
+.nico{
+	margin-right: auto;
+}
+
+#NS{
+	padding: 0px;
+	margin: 0px;
+	border: 1px solid black;
+	width: 10%;
+	border-radius: 0px;
+}
+
+#MJ{
+	padding: 0px;
+	margin: 0px;
+	border: 1px solid black;
+	width: 8%;
+	border-radius: 0px;
+}
