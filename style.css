@@ -39,31 +39,35 @@ nav a{
 }
 
 #temoin{
-	display: block;
+	margin: 0px;
+	padding: 0px;
 	margin: auto;
 	color: black;
 	background-color: #e5e0a3;
 	width: 90%;
+	height: 300px;
 	box-shadow: 5px 5px 5px black;
 	border-radius: 15px;
 }
 
-.nico{
-	margin-right: auto;
+#NS{
+	float: left;
+	border: 1px solid black;
+	width: 5%;
+	border-radius: 0px;
 }
 
-#NS{
-	padding: 0px;
-	margin: 0px;
-	border: 1px solid black;
-	width: 10%;
-	border-radius: 0px;
+.nico{
+	padding: 1%;
 }
 
 #MJ{
-	padding: 0px;
-	margin: 0px;
+	float: left;
 	border: 1px solid black;
-	width: 8%;
+	width: 5%;
 	border-radius: 0px;
+}
+
+.michel{
+	padding: 1%;
 }
